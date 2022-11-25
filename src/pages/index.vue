@@ -1,6 +1,10 @@
 <template>
-    <div>
-        index page
+    <div class="content-page">
+        <div class="content">
+            <div class="container-fluid">
+                index page
+            </div>
+        </div>
     </div>
 </template>
 
