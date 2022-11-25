@@ -1,0 +1,21 @@
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "IRANSans";
+    src: url("../fonts/IRANSans/eot/IRANSansWeb_Medium.eot");
+    src: url("../fonts/IRANSans/eot/IRANSansWeb_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSans/woffIRANSans/IRANSansWeb_Medium.woff2") format("woff2"), url("../fonts/IRANSans/woffIRANSans-IRANSansWeb_Medium") format("woff"), url("../fonts/IRANSans/ttf/IRANSansWeb_Medium.ttf") format("truetype"), url("../fonts/IRANSans/svg/IRANSansWeb_Medium.svg#YekanBakh-Bold") format("svg");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+html {
+    font-family: IRANSans;
+    line-height: 2;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}

@@ -19,7 +19,7 @@
             <li class="dropdown notification-list">
                 <a class="nav-link dropdown-toggle nav-user mr-0 waves-effect" data-toggle="dropdown" href="#"
                     role="button" aria-haspopup="false" aria-expanded="false">
-                    <img alt="تصویر کاربر" class="rounded-circle">
+                    <img src="@/static/images/users/user-4.jpg" alt="تصویر کاربر" class="rounded-circle">
                 </a>
                 <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
 
@@ -57,10 +57,10 @@
             <a href="index.html" class="logo text-center">
                 <span class="logo-lg">
                     <img src="@/static/images/logo.png" alt="تصویر" height="50">
-                    <span class="logo-lg-text-light">ISEE</span>
+                    <span class="logo-lg-text-light">PaperLess</span>
                 </span>
                 <span class="logo-sm">
-                    <span class="logo-sm-text-dark">ISEE</span>
+                    <span class="logo-sm-text-dark">PaperLess</span>
                     <img src="@/static/images/logo.png" alt="تصویر" height="24">
                 </span>
             </a>

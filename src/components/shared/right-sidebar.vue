@@ -4,7 +4,7 @@
         <div class="slimscroll-menu">
             <!-- User box -->
             <div class="user-box text-center">
-                <img src="assets/images/users/user-1.jpg" alt="تصویر کاربر" title="قائم امیدی"
+                <img src="@/static/images/users/user-4.jpg" alt="تصویر کاربر" title="قائم امیدی"
                     class="rounded-circle img-thumbnail avatar-lg">
                 <div class="dropdown">
                     <a href="#" class="text-dark dropdown-toggle h5 mt-2 mb-1 d-block" data-toggle="dropdown">قائم
